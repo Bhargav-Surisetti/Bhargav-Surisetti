@@ -46,13 +46,6 @@ I’m a cybersecurity junior passionate about ethical hacking, vulnerability ass
 
 ---
 
-## 📈 GitHub Stats  
-![Bhargav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhargav-Surisetti&show_icons=true&theme=radical)  
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Bhargav-Surisetti&layout=compact&theme=radical)  
-
----
-
 ## 📫 Let’s Connect!  
 - [LinkedIn](https://www.linkedin.com/in/bhargav-pavan-sai-surisetti-b47243330/)  
 - [Portfolio](https://bhargavs-tech-haven.lovable.app)  

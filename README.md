@@ -16,37 +16,53 @@ Through hands-on labs, internships, and technical projects, I’ve developed pra
 ---
 
 ## 🛠️ Technical Skills  
-- **Cybersecurity Domains:**  
-  - Vulnerability Assessment & Penetration Testing (VAPT)  
-  - Security Information and Event Management (SIEM)  
-  - Network Security & Threat Analysis  
-  - Incident Detection & Response  
 
-- **Tools & Platforms:**  
-  - Nmap, Zenmap, Nessus, OpenVAS, Wireshark, Burp Suite  
-  - Microsoft Sentinel, T-Pot Honeypot, Splunk (Basics)  
-  - Cisco Packet Tracer, VirtualBox, VMware, UTM  
+### 🔐 Cybersecurity Domains  
+- Vulnerability Assessment & Penetration Testing (VAPT)  
+- Security Information and Event Management (SIEM)  
+- Network Security & Threat Analysis  
+- Incident Detection & Response  
 
-- **Networking Knowledge:**  
-  - IPv4, NAT, Subnetting, VLAN, DHCP, DNS  
-  - OSI & TCP/IP Models, LAN/WAN Configuration  
+### ⚙️ Tools & Platforms  
+- Nmap, Zenmap, Nessus, OpenVAS, Wireshark, Burp Suite  
+- Microsoft Sentinel, T-Pot Honeypot, Splunk (Basics)  
+- Cisco Packet Tracer, VirtualBox, VMware, UTM  
 
-- **Programming & Scripting:**  
-  - Python (Automation & Scripting Basics)  
-  - HTML (Web fundamentals for security testing)  
+### 🌐 Networking Knowledge  
+- IPv4, NAT, Subnetting, VLAN, DHCP, DNS  
+- OSI & TCP/IP Models, LAN/WAN Configuration  
 
-- **Operating Systems:**  
-  - Linux, Kali Linux, Windows Server, Azure Cloud  
+### 💻 Programming & Scripting  
+- Python (Automation & Scripting Basics)  
+- HTML (Web fundamentals for security testing)  
+
+### 🧩 Operating Systems  
+- Linux, Kali Linux, Windows Server, Azure Cloud  
 
 ---
 
 ## 📂 Featured Projects  
-🔹 [**Microsoft Sentinel SIEM Implementation on Azure**](https://github.com/Bhargav-Surisetti/microsoft-sentinel-siem-project) – End-to-end setup of cloud-native SIEM for real-time threat detection and response.  
-🔹 [**Nessus Vulnerability Assessment**](https://github.com/Bhargav-Surisetti/nessus-vulnerability-assessment) – Comprehensive scan and mitigation report using Nessus.  
-🔹 [**T-Pot Honeypot on Azure Cloud**](https://github.com/Bhargav-Surisetti/tpot-honeypot-on-azure-cloud) – Multi-honeypot deployment for attack analysis and log monitoring.  
-🔹 [**Metasploitable2 PenTest Project**](https://github.com/Bhargav-Surisetti/Metasploitable2-PenTest-Project) – Exploitation and vulnerability mapping in a controlled environment.  
-🔹 [**Wireshark IP & TCP Analysis**](https://github.com/Bhargav-Surisetti/wireshark-ip-tcp-analysis-cisco) – Network traffic inspection and TCP session reconstruction.  
-🔹 [**PSB’s FinTech Cybersecurity Hackathon 2025**](https://github.com/Bhargav-Surisetti/PSB-s-FinTech-Cybersecurity-Hackathon-2025-) – Security solutions for FinTech infrastructure and secure transactions.
+
+🔹 [**AI-SIEM: ChatGPT Integration with Microsoft Sentinel**](https://github.com/Bhargav-Surisetti/AI-SIEM-ChatGPT-Integration)  
+Integration of Microsoft Sentinel with ChatGPT for AI-driven incident analysis, enrichment, and automation using Azure Logic Apps.  
+
+🔹 [**Microsoft Sentinel SIEM Implementation on Azure**](https://github.com/Bhargav-Surisetti/microsoft-sentinel-siem-project)  
+End-to-end setup of cloud-native SIEM for real-time threat detection and response.  
+
+🔹 [**Nessus Vulnerability Assessment**](https://github.com/Bhargav-Surisetti/nessus-vulnerability-assessment)  
+Comprehensive scan and mitigation report using Nessus vulnerability scanner.  
+
+🔹 [**T-Pot Honeypot on Azure Cloud**](https://github.com/Bhargav-Surisetti/tpot-honeypot-on-azure-cloud)  
+Multi-honeypot deployment for attack analysis, logging, and monitoring.  
+
+🔹 [**Metasploitable2 PenTest Project**](https://github.com/Bhargav-Surisetti/Metasploitable2-PenTest-Project)  
+Vulnerability exploitation and privilege escalation in a controlled lab setup.  
+
+🔹 [**Wireshark IP & TCP Analysis**](https://github.com/Bhargav-Surisetti/wireshark-ip-tcp-analysis-cisco)  
+Deep packet inspection and TCP session reconstruction using Wireshark.  
+
+🔹 [**PSB’s FinTech Cybersecurity Hackathon 2025**](https://github.com/Bhargav-Surisetti/PSB-s-FinTech-Cybersecurity-Hackathon-2025-)  
+Developed secure transaction models and risk mitigation strategies for FinTech environments.  
 
 ---
 
@@ -61,16 +77,25 @@ Through hands-on labs, internships, and technical projects, I’ve developed pra
 ## 🌱 Currently Learning  
 - Advanced **Penetration Testing & Exploit Development**  
 - **Cloud Security** with Microsoft Azure and AWS  
-- Preparing for **CompTIA Security+** and **CEH (Certified Ethical Hacker)**  
+
+---
+
+## 💼 Technical Interests  
+- Cloud Security Engineering (Azure/AWS)  
+- SOC Automation & Threat Hunting  
+- AI & ML for Cyber Defense  
+- Secure DevOps (DevSecOps)  
+- Digital Forensics and Incident Response (DFIR)  
 
 ---
 
 ## 📫 Let’s Connect  
-- 🌐 [Portfolio](https://bhargavs-tech-haven.lovable.app)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/bhargav-pavan-sai-surisetti-b47243330/)  
-- 📧 **bhargavsurisetti02@gmail.com**
+- 🌐 **Portfolio:** [bhargavs-tech-haven.lovable.app](https://bhargavs-tech-haven.lovable.app)  
+- 💼 **LinkedIn:** [Bhargav Pavan Sai Surisetti](https://www.linkedin.com/in/bhargav-pavan-sai-surisetti-b47243330/)  
+- 📧 **Email:** bhargavsurisetti02@gmail.com  
 
 ---
 
 ⭐ *“Turning curiosity into cybersecurity.”*  
+
 

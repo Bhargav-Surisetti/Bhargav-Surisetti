@@ -24,7 +24,9 @@ I’m a cybersecurity junior passionate about ethical hacking, vulnerability ass
 ---
 
 ## 📂 Featured Projects  
-🔹 [Nessus Vulnerability Assessment](https://github.com/Bhargav-Surisetti/nessus-vulnerability-assessment)  
+🔹 [Nessus Vulnerability Assessment](https://github.com/Bhargav-Surisetti/nessus-vulnerability-assessment) 
+🔹
+🔹 [Microsoft Sentinel SEIM](https://github.com/Bhargav-Surisetti/microsoft-sentinel-siem-project)
 🔹 [Metasploitable2 PenTest Project](https://github.com/Bhargav-Surisetti/Metasploitable2-PenTest-Project)  
 🔹 [Wireshark IP & TCP Analysis](https://github.com/Bhargav-Surisetti/wireshark-ip-tcp-analysis-cisco)  
 🔹 [PSB’s FinTech Cybersecurity Hackathon](https://github.com/Bhargav-Surisetti/PSB-s-FinTech-Cybersecurity-Hackathon-2025-)  

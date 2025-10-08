@@ -43,7 +43,7 @@ Through hands-on labs, internships, and technical projects, I’ve developed pra
 
 ## 📂 Featured Projects  
 
-🔹 [**AI-SIEM: ChatGPT Integration with Microsoft Sentinel**](https://github.com/Bhargav-Surisetti/AI-SIEM-ChatGPT-Integration)  
+🔹 [**AI-SIEM-ChatGPT-Integration**](https://github.com/Bhargav-Surisetti/AI-SIEM-ChatGPT-Integration)  
 Integration of Microsoft Sentinel with ChatGPT for AI-driven incident analysis, enrichment, and automation using Azure Logic Apps.  
 
 🔹 [**Microsoft Sentinel SIEM Implementation on Azure**](https://github.com/Bhargav-Surisetti/microsoft-sentinel-siem-project)  

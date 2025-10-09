@@ -3,14 +3,14 @@
 🚀 **Cybersecurity Enthusiast | SOC Analyst | Cloud Security & Penetration Testing**  
 
 I’m a passionate cybersecurity professional in training, focused on **ethical hacking, cloud security, and digital forensics**.  
-Through hands-on labs, internships, and technical projects, I’ve developed practical experience in identifying vulnerabilities, conducting penetration tests, and building secure network environments using modern security frameworks and tools.
+Through hands-on labs, internships, and technical projects, I’ve developed practical experience in identifying vulnerabilities, conducting penetration tests, and building secure network environments using modern security frameworks and tools.  
 
 ---
 
 ## 🔒 About Me  
 - 🎓 Pursuing **B.Tech in Electronics and Communication Engineering (2023–2026)**  
 - 🧠 Deep interest in **offensive security, blue team operations, and Azure cloud security**  
-- 🧩 Experienced with **SIEM (Microsoft Sentinel)** and **threat detection automation**  
+- ⚙️ Experienced with **SIEM (Microsoft Sentinel)** and **threat detection automation**  
 - 💡 Constantly learning through **real-world projects, CTFs, and online certifications**
 
 ---
@@ -37,7 +37,7 @@ Through hands-on labs, internships, and technical projects, I’ve developed pra
 - HTML (Web fundamentals for security testing)  
 
 ### 🧩 Operating Systems  
-- Linux, Kali Linux, Windows Server, Azure Cloud  
+- Linux, Kali Linux, Ubuntu, Windows Server, Azure Cloud  
 
 ---
 
@@ -49,11 +49,11 @@ Integration of Microsoft Sentinel with ChatGPT for AI-driven incident analysis, 
 🔹 [**Microsoft Sentinel SIEM Implementation on Azure**](https://github.com/Bhargav-Surisetti/microsoft-sentinel-siem-project)  
 End-to-end setup of cloud-native SIEM for real-time threat detection and response.  
 
-🔹 [**Nessus Vulnerability Assessment**](https://github.com/Bhargav-Surisetti/nessus-vulnerability-assessment)  
-Comprehensive scan and mitigation report using Nessus vulnerability scanner.  
-
 🔹 [**T-Pot Honeypot on Azure Cloud**](https://github.com/Bhargav-Surisetti/tpot-honeypot-on-azure-cloud)  
 Multi-honeypot deployment for attack analysis, logging, and monitoring.  
+
+🔹 [**Nessus Vulnerability Assessment**](https://github.com/Bhargav-Surisetti/nessus-vulnerability-assessment)  
+Comprehensive scan and mitigation report using Nessus vulnerability scanner.  
 
 🔹 [**Metasploitable2 PenTest Project**](https://github.com/Bhargav-Surisetti/Metasploitable2-PenTest-Project)  
 Vulnerability exploitation and privilege escalation in a controlled lab setup.  
@@ -70,7 +70,7 @@ Developed secure transaction models and risk mitigation strategies for FinTech e
 - 🧩 **CCNA: Introduction to Networks** – Cisco Networking Academy  
 - 🧩 **CCNA: Switching, Routing, and Wireless Essentials** – Cisco Networking Academy  
 - 🧩 **Introduction to Cybersecurity** – Cisco Networking Academy  
-- 🧩 **Fundamentals of Cybersecurity** – Zscaler Academy  
+- 🧩 **Fundamentals of Cybersecurity (EDU-102)** – Zscaler Academy  
 
 ---
 
@@ -85,14 +85,14 @@ Developed secure transaction models and risk mitigation strategies for FinTech e
 - SOC Automation & Threat Hunting  
 - AI & ML for Cyber Defense  
 - Secure DevOps (DevSecOps)  
-- Digital Forensics and Incident Response (DFIR)  
+- Digital Forensics & Incident Response (DFIR)  
 
 ---
 
 ## 📫 Let’s Connect  
 - 🌐 **Portfolio:** [bhargavs-tech-haven.lovable.app](https://bhargavs-tech-haven.lovable.app)  
 - 💼 **LinkedIn:** [Bhargav Pavan Sai Surisetti](https://www.linkedin.com/in/bhargav-pavan-sai-surisetti-b47243330/)  
-- 📧 **Email:** bhargavsurisetti02@gmail.com  
+- 📧 **Email:** [bhargavsurisetti02@gmail.com](mailto:bhargavsurisetti02@gmail.com)  
 
 ---
 

@@ -90,7 +90,7 @@ Developed secure transaction models and risk mitigation strategies for FinTech e
 ---
 
 ## 📫 Let’s Connect  
-- 🌐 **Portfolio:** [bhargavs-tech-haven.lovable.app](https://bhargavs-tech-haven.lovable.app)  
+- 🌐 **Portfolio:** [bhargavs's-portfolio](https://portfolio-pivot-shine.lovable.app)
 - 💼 **LinkedIn:** [Bhargav Pavan Sai Surisetti](https://www.linkedin.com/in/bhargav-pavan-sai-surisetti-b47243330/)  
 - 📧 **Email:** [bhargavsurisetti02@gmail.com](mailto:bhargavsurisetti02@gmail.com)  
 

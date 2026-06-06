@@ -12,9 +12,9 @@ I enjoy building practical cybersecurity labs, analyzing suspicious activity, wo
 
 * 🎓 Completed B.Tech in Electronics and Communication Engineering
 * 💻 Minor Degree in Computer Science Engineering
-* 🛡️ Interested in SOC operations, malware analysis, cloud security, and vulnerability management
-* ⚙️ Hands-on with Microsoft Sentinel, Sandboxie-Plus, Nessus, OpenVAS, Nmap, Sysmon, and Burp Suite
-* 📊 Experienced in Windows Event Logs, firewall/WFP logs, PowerShell logging, process activity, and registry change monitoring
+* 🛡️ Interested in SOC operations, malware analysis, cloud security, vulnerability management, and ethical hacking
+* ⚙️ Hands-on with Microsoft Sentinel, Sandboxie-Plus, Nessus, OpenVAS, Nmap, Sysmon, Burp Suite, and Wireshark
+* 📊 Experienced in Windows Event Logs, firewall/WFP logs, PowerShell logging, process activity, registry change monitoring, and network traffic analysis
 * 🌱 Continuously learning through internships, cybersecurity labs, CTFs, hackathons, and certifications
 
 ---
@@ -29,6 +29,7 @@ I enjoy building practical cybersecurity labs, analyzing suspicious activity, wo
 * Incident Response
 * Threat Hunting
 * Vulnerability Assessment
+* Penetration Testing Basics
 * Network Security Monitoring
 * Log and Endpoint Analysis
 
@@ -40,9 +41,13 @@ I enjoy building practical cybersecurity labs, analyzing suspicious activity, wo
 * OpenVAS
 * Burp Suite
 * Nmap
+* Enum4Linux
+* Wireshark
 * Sysmon
+* T-Pot Honeypot
 * Kali Linux
 * VirtualBox
+* VMware
 * Microsoft Azure
 
 ### 🧾 Log & Endpoint Analysis
@@ -61,6 +66,8 @@ I enjoy building practical cybersecurity labs, analyzing suspicious activity, wo
 * OSI & TCP/IP Models
 * VLANs
 * SMB Sharing
+* DHCP
+* DNS
 
 ### 💻 Programming & Scripting
 
@@ -76,19 +83,89 @@ I enjoy building practical cybersecurity labs, analyzing suspicious activity, wo
 
 ### 🔹 Web-Based Malware Analysis Sandbox using Sandboxie-Plus
 
+**GitHub:** [Web-Based Malware Analysis Sandbox](https://github.com/Bhargav-Surisetti/web-based-malware-analysis-sandbox)
+
 Designed and developed a secure malware analysis sandbox to execute and investigate suspicious files inside an isolated virtual machine environment. Built a web-based workflow for file submission, controlled execution, monitoring, snapshot-based restoration, and automated collection of process activity, registry changes, file behavior, and network indicators.
+
+---
 
 ### 🔹 Centralized SOC Log Monitoring and Attack Detection Lab
 
+**GitHub:** [Centralized SOC Log Monitoring Lab](https://github.com/Bhargav-Surisetti/centralized-soc-log-monitoring-lab)
+
 Built a 4-VM SOC-style lab using Kali Linux, Windows 10, Metasploitable3 Windows, and a centralized Windows log collector/dashboard server. Configured Windows auditing, Sysmon, firewall/WFP logs, PowerShell logging, and scheduled log agents to collect endpoint and network activity. Automated SMB-based log forwarding, SHA-256 verification, backup storage, and dashboard visualization.
+
+---
 
 ### 🔹 AI-Driven SIEM and Incident Response Automation
 
-Built a Microsoft Sentinel-based SIEM solution to centralize security logs and support threat investigation. Integrated automated workflows to improve alert triage, incident response, and remediation efficiency.
+**GitHub:** [AI-SIEM-ChatGPT-Integration](https://github.com/Bhargav-Surisetti/AI-SIEM-ChatGPT-Integration)
+
+Built a Microsoft Sentinel-based SIEM solution to centralize security logs and support threat investigation. Integrated Azure Logic Apps and automation workflows to improve alert triage, incident enrichment, incident response, and remediation efficiency.
+
+---
+
+### 🔹 Microsoft Sentinel SIEM Implementation on Azure
+
+**GitHub:** [microsoft-sentinel-siem-project](https://github.com/Bhargav-Surisetti/microsoft-sentinel-siem-project)
+
+Implemented Microsoft Sentinel in Azure to centralize security logs, perform basic incident investigation, correlate threats using SIEM analytics, and document remediation actions for identified incidents.
+
+---
 
 ### 🔹 Vulnerability Assessment and Penetration Testing Lab
 
+**GitHub:** [nessus-vulnerability-assessment](https://github.com/Bhargav-Surisetti/nessus-vulnerability-assessment)
+
 Built a VAPT lab using Kali Linux, VirtualBox, Nessus, Nmap, Enum4Linux, OpenVAS, and Metasploitable2. Performed credentialed and non-credentialed scans, identified vulnerabilities with severity mapping, prioritized critical findings using CVSS scores, and documented remediation steps.
+
+---
+
+### 🔹 Metasploitable2 PenTest Project
+
+**GitHub:** [Metasploitable2-PenTest-Project](https://github.com/Bhargav-Surisetti/Metasploitable2-PenTest-Project)
+
+Conducted scanning and enumeration on Metasploitable2 using Nmap, Enum4Linux, and OpenVAS to identify exploitable weaknesses. Prioritized critical vulnerabilities and documented remediation steps to improve the target security posture.
+
+---
+
+### 🔹 Nessus Vulnerability Assessment
+
+**GitHub:** [nessus-vulnerability-assessment](https://github.com/Bhargav-Surisetti/nessus-vulnerability-assessment)
+
+Configured Nessus in a Kali Linux lab environment and performed vulnerability scans across simulated systems. Identified security weaknesses, mapped severity levels, applied remediation strategies, and validated fixes.
+
+---
+
+### 🔹 T-Pot Honeypot on Azure Cloud
+
+**GitHub:** [tpot-honeypot-on-azure-cloud](https://github.com/Bhargav-Surisetti/tpot-honeypot-on-azure-cloud)
+
+Deployed T-Pot Honeypot on Azure Cloud to improve threat visibility across attack surfaces. Configured network and VM security settings, monitored intrusion attempts, and categorized attack activity for proactive defense.
+
+---
+
+### 🔹 Wireshark IP and TCP Analysis
+
+**GitHub:** [wireshark-ip-tcp-analysis-cisco](https://github.com/Bhargav-Surisetti/wireshark-ip-tcp-analysis-cisco)
+
+Analyzed network packets using Wireshark to understand IP and TCP behavior, detect anomalies in packet flows, and strengthen practical knowledge of OSI and TCP/IP networking concepts.
+
+---
+
+### 🔹 Smart Gate System using RFID
+
+**GitHub:** Add your repository link here
+
+Designed and implemented a smart gate access system using RFID technology and Arduino to automate secure vehicle entry and exit while reducing manual verification.
+
+---
+
+### 🔹 PSB’s FinTech Cybersecurity Hackathon 2025
+
+**GitHub:** [PSB FinTech Cybersecurity Hackathon](https://github.com/Bhargav-Surisetti/PSB-FinTech-Cybersecurity-Hackathon)
+
+Proposed and documented a cybersecurity solution to address fintech security risks, focusing on secure transaction models, risk mitigation, and practical security problem-solving.
 
 ---
 
@@ -109,6 +186,19 @@ Built a VAPT lab using Kali Linux, VirtualBox, Nessus, Nmap, Enum4Linux, OpenVAS
 
 * Built foundational knowledge in network security and cloud protection
 * Learned secure access implementation, threat prevention, and risk management concepts
+
+### Cybersecurity and Ethical Hacking Internship
+
+* Gained hands-on experience in cybersecurity principles, ethical hacking, vulnerability assessment, and penetration testing
+* Practiced risk analysis, threat identification, and mitigation in simulated security environments
+
+---
+
+## 🎓 Education
+
+* B.Tech in Electronics and Communication Engineering
+* Minor Degree in Computer Science Engineering
+* Diploma in Electronics and Communication Engineering
 
 ---
 
@@ -138,6 +228,7 @@ Built a VAPT lab using Kali Linux, VirtualBox, Nessus, Nmap, Enum4Linux, OpenVAS
 * SIEM use cases and incident response workflows
 * Vulnerability assessment and remediation
 * Cloud security using Microsoft Azure
+* Threat detection and log analysis
 
 ---
 

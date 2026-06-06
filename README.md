@@ -83,7 +83,6 @@ I enjoy building practical cybersecurity labs, analyzing suspicious activity, wo
 
 ### 🔹 Web-Based Malware Analysis Sandbox using Sandboxie-Plus
 
-**GitHub:** [Web-Based Malware Analysis Sandbox](https://github.com/Bhargav-Surisetti/web-based-malware-analysis-sandbox)
 
 Designed and developed a secure malware analysis sandbox to execute and investigate suspicious files inside an isolated virtual machine environment. Built a web-based workflow for file submission, controlled execution, monitoring, snapshot-based restoration, and automated collection of process activity, registry changes, file behavior, and network indicators.
 
@@ -91,7 +90,6 @@ Designed and developed a secure malware analysis sandbox to execute and investig
 
 ### 🔹 Centralized SOC Log Monitoring and Attack Detection Lab
 
-**GitHub:** [Centralized SOC Log Monitoring Lab](https://github.com/Bhargav-Surisetti/centralized-soc-log-monitoring-lab)
 
 Built a 4-VM SOC-style lab using Kali Linux, Windows 10, Metasploitable3 Windows, and a centralized Windows log collector/dashboard server. Configured Windows auditing, Sysmon, firewall/WFP logs, PowerShell logging, and scheduled log agents to collect endpoint and network activity. Automated SMB-based log forwarding, SHA-256 verification, backup storage, and dashboard visualization.
 
@@ -155,7 +153,6 @@ Analyzed network packets using Wireshark to understand IP and TCP behavior, dete
 
 ### 🔹 Smart Gate System using RFID
 
-**GitHub:** Add your repository link here
 
 Designed and implemented a smart gate access system using RFID technology and Arduino to automate secure vehicle entry and exit while reducing manual verification.
 
@@ -234,9 +231,10 @@ Proposed and documented a cybersecurity solution to address fintech security ris
 
 ## 📫 Let’s Connect
 
-* 💼 LinkedIn: Bhargav Pavan Sai Surisetti
-* 🌐 GitHub: Bhargav-Surisetti
+* 💼 LinkedIn: [Bhargav Pavan Sai Surisetti](https://www.linkedin.com/in/bhargav-pavan-sai-surisetti-b47243330)
+* 🌐 GitHub: [Bhargav-Surisetti](https://github.com/Bhargav-Surisetti)
 * 📧 Email: [bhargavsurisetti02@gmail.com](mailto:bhargavsurisetti02@gmail.com)
+* 🚀 Portfolio: [Portfolio](https://shine-on-my-soc.lovable.app)
 
 ---
 
